@@ -1,0 +1,21 @@
+.Logo{
+    font-size: 40px;
+    text-align: center;
+    color: #fcedd8;
+    background: teal;
+    font-family: 'Niconne', cursive;
+    font-weight: 400;
+    text-shadow:2px 1px 0px #eb452b, 
+                4px 2px 0px #efa032, 
+                6px 3px 0px #46b59b, 
+                8px 4px 0px #017e7f, 
+                10px 5px 0px #052939, 
+                12px 6px 0px teal, 
+                14px 7px 0px teal, 
+                16px 8px 0px teal, 
+                18px 9px 0px teal;
+}
+.text{
+    vertical-align: top;
+}
+

@@ -1,0 +1,33 @@
+.Navbar {
+    padding: 0;
+    margin: 0;
+}
+.Container{
+    margin: 0;
+    padding: 0;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: 600;
+    flex: 1;
+}
+/* .spike{
+    width: 46px;
+    background-color: white;
+} */
+.content{
+    cursor: pointer;
+    color: teal;
+    padding: 10px 4px;
+    border-radius: 4px;
+}
+.content:hover{
+    background-color: thistle;
+}
+.main{
+    border-bottom: 3px solid turquoise;
+}
+    
